@@ -1,0 +1,10 @@
+SALES ANALYSIS REPORT 2025
+==========================
+Total revenue : $3,518,000
+Orders        : 3,000
+Avg order     : $1,172.67
+Best month    : December
+Avg monthly growth : 2.98%
+Top product   : Phone ($1,400,252)
+Top region    : Cairo ($1,312,154)
+Missing regions cleaned : 40 rows -> 'Unknown'
